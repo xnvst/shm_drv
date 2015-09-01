@@ -1,0 +1,5 @@
+config MPI_SHM
+	tristate "Support MPI share memory"
+	help
+	  This compiles in support for share memory between mutiple processors for mpc8641d.
+
